@@ -1,0 +1,23 @@
+{
+  "name": "webrtc-chat",
+  "version": "1.0.0",
+  "description": "A peer-to-peer video, audio and text chat implemented with JavaScript, WebRTC for communication and ScaleDrone for signaling.",
+  "main": "script.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avinoamMO/WebRTC-Chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avinoamMO/WebRTC-Chat/issues"
+  },
+  "homepage": "https://github.com/avinoamMO/WebRTC-Chat#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^1.2.1"
+  }
+}

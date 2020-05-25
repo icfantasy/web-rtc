@@ -1,1 +1,2 @@
-# web-rtc
+npm install
+npm start
